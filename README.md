@@ -1,2 +1,2 @@
 # vitalium-presets
-Presets for Vitalium
+Presets and wavetables for Vitalium
